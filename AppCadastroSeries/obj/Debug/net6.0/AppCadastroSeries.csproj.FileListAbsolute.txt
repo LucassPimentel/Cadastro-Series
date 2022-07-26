@@ -1,0 +1,15 @@
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.exe
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.deps.json
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.runtimeconfig.json
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.dll
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.pdb
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.csproj.AssemblyReference.cache
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.AssemblyInfoInputs.cache
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.AssemblyInfo.cs
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.dll
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\refint\AppCadastroSeries.dll
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.pdb
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.genruntimeconfig.cache
+C:\Users\lupdsilva\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\net6.0\ref\AppCadastroSeries.dll
