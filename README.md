@@ -1,2 +1,2 @@
-# Cadastro-Series
-Simples aplicação de console para cadastro de séries
+# Cadastro-Series 🎬
+Simples aplicação de console para cadastro de séries.
